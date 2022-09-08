@@ -1,0 +1,2 @@
+
+var profilePicture='person.jpg';
