@@ -9,5 +9,5 @@ flutter pub get
 flutter run
 ```
 ## ScreenShot
-<img src="assets/screenshot/splash.jpg" height="500em" />
+<img src="https://github.com/kindaKharita/diet/blob/master/assets/screenShot/splash.jpg" height="500em" />
 <img src="assets/screenshot/home.jpg" height="500em" />&nbsp;<img src="assets/screenshot/diary.jpg" height="500em" />&nbsp;<img src="assets/screenshot/favourite.jpg" height="500em" />
